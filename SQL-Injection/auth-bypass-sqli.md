@@ -37,4 +37,6 @@ leading to full account compromise.
 - Avoid building SQL queries via string concatenation
 - Implement proper input validation
 
+  overall this was quite confusing and overhead 
+
   :(Sakshyam koirala)
